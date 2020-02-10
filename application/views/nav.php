@@ -1,0 +1,2 @@
+<a href="<?php echo base_url(); ?>"><button type="button" class="btn btn-danger"><font color="#FFFFFF"><b>Beranda</b></font></button></a>
+<a href="<?php echo base_url().'page/daftar'; ?>"><button type="button" class="btn btn-danger"><font color="#FFFFFF"><b>Daftar Kuliah Tamu</b></font></button></a>
